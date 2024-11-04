@@ -1,9 +1,5 @@
 # 💫 About Me:
-🎓 Studying at UniWA
-💼 Working at AIC
-🔧 Love modifying things
-💻 I enjoy programming as a hobby... but not always
-🎬 I watch anime, movies, and series
+🎓 Studying at UniWA<br>💼 Working at AIC<br>🔧 Love modifying things<br>💻 I enjoy programming as a hobby... but not always<br>🎬 I watch anime, movies, and series
 
 
 ## 🌐 Socials:
